@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/drawable/button_grad.xml" value="0.1955" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/drawable/combination_grad.xml" value="0.1955" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/drawable/layout_border.xml" value="0.1955" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/drawable/settings_grad.xml" value="0.206" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/layout/game.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/layout/settings.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/AztecKing/app/src/main/res/layout/web_view.xml" value="0.2421875" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/drawable/btn_gradient.xml" value="0.198" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/drawable/layout_border.xml" value="0.1665" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/drawable/settings_grad.xml" value="0.198" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/layout/game.xml" value="0.2421875" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/layout/lepry_finish_game.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/LepryBrew/app/src/main/res/layout/lepry_game.xml" value="0.2421875" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/november/LepryBrew/app/src/main/res/layout/lepry_finish_game.xml" value="0.2421875" />
+        <entry key="..\:/Users/S.K/AndroidStudioProjects/Trident/november/LepryBrew/app/src/main/res/layout/lepry_game.xml" value="0.153125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

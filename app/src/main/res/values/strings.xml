@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Red Joker</string>
+
+    <string name="facebook_id">610014957635532</string>
+    <string name="facebook_client_token">bca423850aa8b2026fd0dd4333e31ba8</string>
+
+    <string name="your_score">YOUR SCORE</string>
+    <string name="refresh">REFRESH</string>
+    <string name="you_lose">YOU LOSE</string>
+    <string name="try_again">TRY AGAIN</string>
+
+</resources>
